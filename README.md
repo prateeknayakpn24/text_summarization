@@ -1,2 +1,2 @@
-Open the summary.ipynb 
-i have used extractive approach for the text summarization
+Open the summary.ipynb.
+Ihave used extractive approach for the text summarization
